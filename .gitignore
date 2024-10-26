@@ -1,0 +1,13 @@
+test/bin
+test/obj
+test/*.depend
+test/*.layout
+bin
+obj
+*.layout
+*.gcov
+*.cbp
+coverage
+coverage.info
+unity/*.pdf
+
