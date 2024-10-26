@@ -597,6 +597,7 @@ clean_list :
 	@$(RM) $(LST)
 	@$(RM) $(DEPDIR)
 	@$(RM) coverage
+	@$(RM) *.gcov
 
 
 # Include the dependency files.
